@@ -1,0 +1,27 @@
+[
+    {
+    "codigo" : 1,
+    "titulo" : "Cambiar nombre de la variable",
+    "estado" : "Pendiente" 
+},
+{
+    "codigo" : 2,
+    "titulo" : "Crear array de datos",
+    "estado" : "Terminada" 
+},
+{
+    "codigo" : 3,
+    "titulo" : "Usar función Suma",
+    "estado" : "Terminada" 
+},
+{
+    "codigo" : 4,
+    "titulo" : "Sumar condición a un If",
+    "estado" : "En proceso" 
+},
+{
+    "codigo" : 5,
+    "titulo" : "Convertir un objeto a JSON",
+    "estado" : "Pendiente" 
+}
+]
